@@ -19,7 +19,7 @@ module.exports = {
         'plugin',
         'api'
       ]
-    },
+    },  
     type: 'blog',
     // 博客设置
     blogConfig: {
@@ -49,13 +49,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'km_gc2016',
+    author: 'reco_luan',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    // record: 'xxxx',
+    record: 'xxxx',
     // 项目开始时间
-    startYear: '2021'
+    startYear: '2017'
     /**
      * 密钥 (if your blog is private)
      */
