@@ -1,6 +1,6 @@
 module.exports = {
   title: "前端阿才",
-  description: '有的人生来就在罗马，有的人生来就是牛马！',
+  description: '书山有路勤为径，学海无涯苦作舟',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -35,7 +35,7 @@ module.exports = {
     friendLink: [
       {
         title: '前端阿才',
-        desc: '有的人生来就在罗马，有的人生来就是牛马！',
+        desc: '书山有路勤为径，学海无涯苦作舟',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
@@ -47,13 +47,13 @@ module.exports = {
     // 自动形成侧边导航
     // sidebar: 'auto',
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    lastUpdated: '上次更新',
     // 作者
     author: 'km_gc2016',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    // record: 'xxxx',
     // 项目开始时间
     startYear: '2021'
     /**

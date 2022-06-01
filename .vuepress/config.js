@@ -1,6 +1,6 @@
 module.exports = {
   title: "前端阿才",
-  description: '有的人生来就在罗马，有的人生来就是牛马！',
+  description: '书山有路勤为径，学海无涯苦作舟',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -35,7 +35,7 @@ module.exports = {
     friendLink: [
       {
         title: '前端阿才',
-        desc: '有的人生来就在罗马，有的人生来就是牛马！',
+        desc: '书山有路勤为径，学海无涯苦作舟',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
       },

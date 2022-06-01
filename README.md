@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 前端阿才
-tagline: 有的人生来就在罗马，有的人生来就是牛马！
+tagline: 书山有路勤为径，学海无涯苦作舟
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
