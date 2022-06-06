@@ -15,7 +15,7 @@ module.exports = {
     sidebar: {
       '/docs/theme-reco/': [
         '',
-        'flex',
+        'theme',
         'coordinates',
         'api'
       ]
@@ -74,11 +74,6 @@ module.exports = {
     //   appId: '...',// your appId
     //   appKey: '...', // your appKey
     // }
-  },
-  locales: {
-    '/': {
-      lang: 'zh-CN'
-    }
   },
   markdown: {
     lineNumbers: true

@@ -75,11 +75,6 @@ module.exports = {
     //   appKey: '...', // your appKey
     // }
   },
-  locales: {
-    '/': {
-      lang: 'zh-CN'
-    }
-  },
   markdown: {
     lineNumbers: true
   }
