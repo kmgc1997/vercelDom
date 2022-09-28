@@ -17,7 +17,9 @@ module.exports = {
         '',
         'flex',
         'coordinates',
-        'api'
+        'setGlobal',
+        'objectValue',
+        'position'
       ]
     },
     type: 'blog',
@@ -74,6 +76,11 @@ module.exports = {
     //   appId: '...',// your appId
     //   appKey: '...', // your appKey
     // }
+  },
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
   },
   markdown: {
     lineNumbers: true

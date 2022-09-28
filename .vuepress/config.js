@@ -17,8 +17,9 @@ module.exports = {
         '',
         'flex',
         'coordinates',
-        'api',
-        'objectValue'
+        'setGlobal',
+        'objectValue',
+        'position'
       ]
     },
     type: 'blog',
