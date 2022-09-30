@@ -1,5 +1,5 @@
 module.exports = {
-  title: "前端阿才",
+  title: "阿才的杂货铺",
   description: '书山有路勤为径，学海无涯苦作舟',
   dest: 'public',
   head: [
@@ -20,7 +20,8 @@ module.exports = {
         'setGlobal',
         'objectValue',
         'position',
-        'ueditor'
+        'ueditor',
+        'tableClick'
       ]
     },
     type: 'blog',
@@ -37,7 +38,7 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '前端阿才',
+        title: '阿才的杂货铺',
         desc: '书山有路勤为径，学海无涯苦作舟',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
