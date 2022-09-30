@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 前端阿才
+heroText: 阿才的杂货铺
 tagline: 书山有路勤为径，学海无涯苦作舟
 # heroImage: /hero.png
 # heroImageStyle: {
