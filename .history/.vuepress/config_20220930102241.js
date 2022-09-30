@@ -20,7 +20,7 @@ module.exports = {
         'setGlobal',
         'objectValue',
         'position',
-        'editor',
+        'ueditor',
         'tableClick'
       ]
     },
